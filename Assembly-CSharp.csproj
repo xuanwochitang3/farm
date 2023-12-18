@@ -58,7 +58,10 @@
     <Analyzer Include="E:\unity\Unity\Hub\Editor\2023.1.11f1c1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scriptes\Player_C.cs" />
+    <Compile Include="Assets\Scriptes\Crop_Empty1.cs" />
     <Compile Include="Assets\Scriptes\Camer_C.cs" />
+    <Compile Include="Assets\Scriptes\Crop_Empty.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
